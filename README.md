@@ -1,2 +1,2 @@
-# bitsbrexplorer
-Explorer  BITSBR 
+# bitsbrhash
+BITSBR
